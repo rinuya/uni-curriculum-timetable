@@ -1,0 +1,513 @@
+[
+    {
+        "code": "MS-A0111",
+        "name": "Differential and Integral Calculus 1",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Mathematics and Systems Analysis"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-2b18b775-8602-485b-a39b-47f3e6008e55",
+        "period": "I",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": []
+    },
+    {
+        "code": "MS-A0001",
+        "name": "Matrix Algebra",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Mathematics and Systems Analysis"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-63588190-c620-4d97-92bf-8aca13262c61",
+        "period": "II",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": []
+    },
+    {
+        "code": "MS-A0211",
+        "name": "Differential and Integral Calculus 2",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Mathematics and Systems Analysis"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-e485cf8a-9e96-44a1-8bcd-c2a023e41eae",
+        "period": "III",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": []
+    },
+    {
+        "code": "MS-A0503",
+        "name": "First Course in Probability and Statistics",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Mathematics and Systems Analysis"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-df7af45e-6728-4f1b-9f93-cc3953f762a1",
+        "period": "III",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-A7200",
+        "name": "Signals And Systems",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": [
+            "Department of Communications and Networking",
+            "Department of lnformation and Communications Engineering"
+        ],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-42fdbb87-a35a-4120-88fe-3659db945265",
+        "period": "I-II",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": []
+    },
+    {
+        "code": "CS-A1110",
+        "name": "Programming 1",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-49b90b5f-7a82-4255-9b68-7ce91fe3964a/brochure",
+        "period": "I-II",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "ELEC-A7100",
+        "name": "Basic Course in C-programming",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": [
+            "Department of Communications and Networking",
+            "Department of lnformation and Communications Engineering"
+        ],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-49b90b5f-7a82-4255-9b68-7ce91fe3964a/brochure",
+        "period": "III-V",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-A1140",
+        "name": "Data Structures and Algorithms",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-c09c8242-5e9f-46e6-a38c-8855d9578cc1/brochure",
+        "period": "I-II",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "ELEC-C5231",
+        "name": "Introduction to Signal Processing",
+        "credits": 5,
+        "course_level": "Intermediate",
+        "organisers": [
+            "Department of Signal Processing and Acoustics",
+            "Department of lnformation and Communications Engineering"
+        ],
+        "url": "https://sisu.aalto.fi/student/courseunit/aalto-CU-1150933180-20220801/brochure",
+        "period": "IV-V",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-A7151",
+        "name": "Object Oriented Programming with C++",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": [
+            "Department of Communications and Networking",
+            "Department of lnformation and Communications Engineering"
+        ],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-a423f6f2-aa13-41f1-97ee-8453a8787c61/brochure",
+        "period": "I-II",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "SCI-A1010",
+        "name": "Introduction Course for Bachelor's students",
+        "credits": 2,
+        "course_level": "Basic",
+        "organisers": ["School of Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-11a80408-0853-48fb-903d-6bc021515464/brochure",
+        "period": "I-V",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": []
+    },
+    {
+        "code": "LC-1117",
+        "name": "Integrated Oral and Written Skills (o,w)",
+        "credits": 3,
+        "course_level": "Basic",
+        "organisers": ["Aalto University", "Language Centre"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-11a80408-0853-48fb-903d-6bc021515464/brochure",
+        "period": "I-II",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": []
+    },
+    {
+        "code": "",
+        "name": "any language studies worth 2-3 cr",
+        "credits": 2,
+        "course_level": "Basic",
+        "organisers": [],
+        "url": "",
+        "period": "IV",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": []
+    },
+    {
+        "code": "",
+        "name": "Basic optional course (3-5cr)",
+        "credits": 3,
+        "course_level": "Basic",
+        "organisers": [],
+        "url": "",
+        "period": "",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": []
+    },
+    {
+        "code": "TU-A1300",
+        "name": "Introduction to Industrial Engineering and Management",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Industrial Engineering and Management"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-321bcd31-afc1-4cde-980e-fd56acffcd20/brochure",
+        "period": "I-II",
+        "basic_studies_for": ["DSD"],
+        "major_studies_for": [],
+        "minor_studies_for": []
+    },
+
+    {
+        "code": "ELEC-C9610",
+        "name": "Basics in Electronics",
+        "credits": 2,
+        "course_level": "Basic",
+        "organisers": ["Department of Electronics and Nanoengineering"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-71e759a0-188a-45e0-92c4-911ecc568170/brochure",
+        "period": "I",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-C9801",
+        "name": "Design Thinking and Electronic Prototyping",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Electronics and Nanoengineering"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-e950987b-ec86-499f-b50a-69266a12e6d8/brochure",
+        "period": "I-II",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-C7420",
+        "name": "Basic Principles in Networking",
+        "credits": 5,
+        "course_level": "Intermediate",
+        "organisers": [
+            "Department of Communications and Networking",
+            "Department of lnformation and Communications Engineering"
+        ],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-e950987b-ec86-499f-b50a-69266a12e6d8/brochure",
+        "period": "III-IV",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-C9600",
+        "name": "Electronic circuits",
+        "credits": 5,
+        "course_level": "Intermediate",
+        "organisers": ["Department of Electronics and Nanoengineering"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-2e67fc62-c30a-4e31-9d97-8e210170c4bd/brochure",
+        "period": "IV-V",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-C9821",
+        "name": "Design Thinking and Advanced Prototyping",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Electronics and Nanoengineering"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-2f253f32-8bbb-4344-a820-4d985cbe7242/brochure",
+        "period": "III-V",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-C5310",
+        "name": "Introduction to Estimation, Detection and Learning",
+        "credits": 5,
+        "course_level": "Intermediate",
+        "organisers": [
+            "Department of Signal Processing and Acoustics",
+            "Department of lnformation and Communications Engineering"
+        ],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-825e568b-cdd9-4c15-add9-417460b03b96/brochure",
+        "period": "I-II",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-C8201",
+        "name": "Control and Automation",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Electrical Engineering and Automation"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-b6f69ae0-a2e8-4924-a401-4f4c067aacb4/brochure",
+        "period": "III-IV",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-C7430",
+        "name": "Industrial Training",
+        "credits": 3,
+        "course_level": "Intermediate",
+        "organisers": [
+            "Department of Communications and Networking",
+            "Department of lnformation and Communications Engineering"
+        ],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-1de79fad-7887-41b7-baea-e64951d3a04a/brochure",
+        "period": "V",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-E8001",
+        "name": "Embedded Real-Time Systems",
+        "credits": 5,
+        "course_level": "Advanced",
+        "organisers": ["Department of Electrical Engineering and Automation"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-31152500-c076-4d00-a20b-a81f6c1187e8/brochure",
+        "period": "I-II",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-C9410",
+        "name": "Photonics and Optical Communications",
+        "credits": 5,
+        "course_level": "Advanced",
+        "organisers": [
+            "Department of Communications and Networking",
+            "Department of Electronics and Nanoengineering",
+            "Department of Electronics and Nanoengineering",
+            "Department of lnformation and Communications Engineering"
+        ],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-2867b1b8-c433-4270-92a2-1adb55dca893/brochure",
+        "period": "I-II",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+    {
+        "code": "ELEC-C0302",
+        "name": "Final Project in Digital Systems and Design",
+        "credits": 10,
+        "course_level": "Intermediate",
+        "organisers": [
+            "Department of Communications and Networking",
+            "Department of Electronics and Nanoengineering",
+            "Department of Electronics and Nanoengineering",
+            "Department of lnformation and Communications Engineering"
+        ],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-2867b1b8-c433-4270-92a2-1adb55dca893/brochure",
+        "period": "I - summer",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+    {
+        "code": "JOIN.bsc",
+        "name": "Bachelor's Thesis and Seminar",
+        "credits": 10,
+        "course_level": "Intermediate",
+        "organisers": [
+            "School of Science",
+            "School of Chemical Engineering",
+            "School of Electrical Engineering",
+            "School of Engineering"
+        ],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-2867b1b8-c433-4270-92a2-1adb55dca893/brochure",
+        "period": "I - summer",
+        "basic_studies_for": [],
+        "major_studies_for": ["DSD"],
+        "minor_studies_for": []
+    },
+
+    {
+        "code": "CS-A1113",
+        "name": "Basics in Programming Y1",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-09489bfa-013e-487a-95ae-c80f912bc0ec/brochure",
+        "period": "I-II",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-A1123",
+        "name": "Basics in Programming Y2",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-393378a5-4003-4e45-87f7-72ba6af162a6/brochure",
+        "period": "III-IV",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-A1143",
+        "name": "Data Structures and Algorithms Y",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-94918442-6f76-468d-a93e-b692aba631b6/brochure",
+        "period": "I-II",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-A1120",
+        "name": "Programming 2",
+        "credits": 5,
+        "course_level": "Basic",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-903337e3-89fb-4b89-8fff-ce2c1ba66232/brochure",
+        "period": "IV-V",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-C2160",
+        "name": "Theory of Computation",
+        "credits": 5,
+        "course_level": "Intermediate",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-e737f80e-5bc4-4a34-9524-8243d7f9f14a/brochure",
+        "period": "III-IV",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-C3120",
+        "name": "Human-Computer Interaction",
+        "credits": 5,
+        "course_level": "Intermediate",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-3f0fdfc2-0bfd-410e-b9f3-1490468f1631/brochure",
+        "period": "I-II",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-C3240",
+        "name": "Machine Learning D",
+        "credits": 5,
+        "course_level": "Intermediate",
+        "organisers": [
+            "Department of Computer Science",
+            "Department of Communications and Networking",
+            "Department of Computer Science",
+            "Department of lnformation and Communications Engineering"
+        ],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-16a98270-0dcd-4279-bd31-110fd550436b/brochure",
+        "period": "I",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-C3140",
+        "name": "Operating Systems",
+        "credits": 5,
+        "course_level": "Intermediate",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-2da569bf-4495-4c8d-8124-41df942b478a/brochure",
+        "period": "I",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-C3170",
+        "name": "Web Software Development",
+        "credits": 5,
+        "course_level": "Intermediate",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-b315be41-994c-4441-8719-b8030dc49479/brochure",
+        "period": "I-V",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-C3130",
+        "name": "Information Security",
+        "credits": 5,
+        "course_level": "Intermediate",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-56963a08-34aa-4bf2-baf1-ebc764e666f1/brochure",
+        "period": "I",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-C3150",
+        "name": "Software Engineering",
+        "credits": 5,
+        "course_level": "Intermediate",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-95691123-b53d-4b7f-b593-eb8b90369ebd/brochure",
+        "period": "I-II",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    },
+    {
+        "code": "CS-E4580",
+        "name": "Programming Parallel Computers D",
+        "credits": 5,
+        "course_level": "Advanced",
+        "organisers": ["Department of Computer Science"],
+        "url": "https://sisu.aalto.fi/student/courseunit/otm-f7b6f20a-cef7-487d-83a3-b526c84b63c6/brochure",
+        "period": "V",
+        "basic_studies_for": [],
+        "major_studies_for": [],
+        "minor_studies_for": ["CS"]
+    }
+]
